@@ -1,0 +1,12 @@
+
+Char    Key1        key2
+1 	    DQ== 	    A+bo
+2 	    DA==    	B+i8
+3 	    Dw==    	U-p0
+4 	    Dg==    	Q+65
+5 	    CQ==    	J23f
+6 	    CA==     	gy7+
+7 	    Cw== 	    ki98
+8 	    Cg==    	Mnaz
+9 	    BQ== 	    Jhew
+0 	    BA== 	    97+Z
